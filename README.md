@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **React & Web Components in general**
 
-- 👨‍💻 Some of my projects are available at [https://mvlanga.com](mvlanga.com)
+- 👨‍💻 Some of my projects are available at [mvlanga.com](https://mvlanga.com)
 
 - 💬 Ask me about **Angular, Locomotive Scroll, Panolens.js, AR via USDZ/GLB**
