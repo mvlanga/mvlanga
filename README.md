@@ -10,4 +10,4 @@
 
 - 👨‍💻 Some of my projects are available at [mvlanga.com](https://mvlanga.com)
 
-- 💬 Ask me about **Angular, Locomotive Scroll, Panolens.js, AR via USDZ/GLB**
+- 💬 Ask me about **Angular, Locomotive Scroll, Panolens.js, AR via USDZ/GLB, Cinema 4D & Octane**
