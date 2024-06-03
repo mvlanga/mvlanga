@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moriz von Langa</h1>
-<h3 align="center">Focused on creating stunning web experiences and 3D designs</h3>
+<h3 align="center">Focused on Frontend Design & Development</h3>
 
 <br/>
 
@@ -10,4 +10,4 @@
 
 - 👨‍💻 Some of my projects are available at [mvlanga.com](https://mvlanga.com)
 
-- 💬 Ask me about **Angular, Locomotive Scroll, Panolens.js, AR via USDZ/GLB, Cinema 4D & Octane**
+- 💬 Ask me about **Angular, Locomotive Scroll, AR via USDZ/GLB, Cinema 4D**
